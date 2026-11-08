@@ -1,0 +1,2 @@
+# sharepoint_mockserver
+SharePointのREST APIを模擬したモックサーバー。検証用なので、SharePointと同じようには動きません。
