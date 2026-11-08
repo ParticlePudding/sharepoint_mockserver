@@ -1,0 +1,17 @@
+{
+  "apps": [
+    {
+      "name": "seatmap",
+      "title": "座席表（動静表）",
+      "root": "../動静表/動静表Webアプリ",
+      "seed": "seatmap"
+    },
+    {
+      "name": "roombook",
+      "title": "会議室予約",
+      "root": "../会議室予約",
+      "seed": "roombook"
+    }
+  ],
+  "uniqueTitleLists": ["会議室予約", "AppSettings"]
+}

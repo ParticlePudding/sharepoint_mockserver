@@ -1,0 +1,14 @@
+# データ（テスト中の入力が残るため公開しない）
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+*.sqlite
+*.sqlite3
+
+__pycache__/
+.claude/
+.vscode/
+Thumbs.db
+desktop.ini
+.DS_Store
